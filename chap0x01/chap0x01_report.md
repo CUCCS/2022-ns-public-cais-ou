@@ -96,8 +96,10 @@
 
     
 
-    靶机：![vic1_ping](img/vic1_ping.png)
+    靶机：
 
+    ![vic1_ping](img/vic1_ping.png)
+    
     ![vic2_ping](img/vic2_ping.png)
 
 ## 参考资料
